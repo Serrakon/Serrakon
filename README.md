@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Serrakon
+- 👀 I’m interested in Golang, .NET, SQL, logistics and geo systems, electronics soldering
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on my interests
+- 📫 How to reach me ----
